@@ -51,7 +51,7 @@ public class Articulo {
     public String toString() {
         return "Articulo {" +
                 "Peso: " + peso +
-                " gramos, Nombre: " + nombre +
+                " Kg, Nombre: " + nombre +
                 ", Descripcion: " + descripcion +
                 ", Precio: " + precio +
                 '}';
